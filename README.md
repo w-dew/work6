@@ -187,8 +187,8 @@ plt.show()
 
 | <font style="color:rgb(15, 17, 21);">实验组</font> | <font style="color:rgb(15, 17, 21);">迭代次数</font> | <font style="color:rgb(15, 17, 21);">保存频率</font> | <font style="color:rgb(15, 17, 21);">输出目录</font> | <font style="color:rgb(15, 17, 21);">备注</font> |
 | --- | --- | --- | --- | --- |
-| <font style="color:rgb(15, 17, 21);">实验 1</font> | <font style="color:rgb(15, 17, 21);">300</font> | <font style="color:rgb(15, 17, 21);">每 20 步</font> | `<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">output_meshes/</font>` | <font style="color:rgb(15, 17, 21);">共生成 16 个中间模型</font> |
-| <font style="color:rgb(15, 17, 21);">实验 2</font> | <font style="color:rgb(15, 17, 21);">500</font> | <font style="color:rgb(15, 17, 21);">每 50 步</font> | `<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">output_meshes1/</font>` | <font style="color:rgb(15, 17, 21);">共生成 11 个中间模型</font> |
+| <font style="color:rgb(15, 17, 21);">实验 1</font> | <font style="color:rgb(15, 17, 21);">300</font> | <font style="color:rgb(15, 17, 21);">每 20 步</font> | output_meshes/ | <font style="color:rgb(15, 17, 21);">共生成 16 个中间模型</font> |
+| <font style="color:rgb(15, 17, 21);">实验 2</font> | <font style="color:rgb(15, 17, 21);">500</font> | <font style="color:rgb(15, 17, 21);">每 50 步</font> | output_meshes1/ | <font style="color:rgb(15, 17, 21);">共生成 11 个中间模型</font> |
 
 
 ### <font style="color:rgb(15, 17, 21);">4.2 最优效果展示</font>
